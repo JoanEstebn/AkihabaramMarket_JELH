@@ -67,7 +67,7 @@ Para ejecutarlo vamos a necesitar lo siguiente:
 
 Ejecuta el script `practicas_db.sql` en el SQL
 
-```sql source practicas_db.sql;
+ sql source practicas_db.sql;
 -------------------------------------------------------
 // INTELIGENCIA ARTIFICIAL //
 Este proyecto se conecta con OpenRouter.ai para usar un LLM gratuito como Mistral 7B. Se emplea HttpClient y Gson para comunicarse con la API de forma segura y eficiente.
