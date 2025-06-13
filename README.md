@@ -65,7 +65,7 @@ Para ejecutarlo vamos a necesitar lo siguiente:
 - IDE (recomendado IntelliJ IDEA o Eclipse)
 - Maven instalado
 
-Ejecuta el script `practicas_db.sql` en tu servidor MySQL:
+Ejecuta el script `practicas_db.sql` en el SQL
 
 ```sql
 source practicas_db.sql;
