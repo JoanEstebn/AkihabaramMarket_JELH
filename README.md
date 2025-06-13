@@ -1,6 +1,10 @@
 // INTRODUCCIÓN //
+
 El contenido de este archivo está presente en la página de github de https://github.com/JoanEstebn/AkihabaramMarket_JELH.git
-El siguiente contenido trata de la modernización de la tienda Akihabara Market, una tienda de productos otakus. este proyecto tratará sobre la gestión de inventario y clientes para la tienda, haciendo uso de java y mysql y las distintas opciones para la creación de programas, como es la interfaz de consolas, GUI con Swing y distintas funciones por IA.
+
+El siguiente contenido trata de la modernización de la tienda Akihabara Market, una tienda de productos otakus. 
+Este proyecto tratará sobre la gestión de inventario y clientes para la tienda, 
+haciendo uso de java y mysql y las distintas opciones para la creación de programas, como es la interfaz de consolas, GUI con Swing y distintas funciones por IA.
 -------------------------------------------------------
 // TECNOLOGÍAS //
 Las tecnologías que vamos a utilizar son:
